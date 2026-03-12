@@ -1,0 +1,166 @@
+Centro de Responsabilidade,Cod centro,Nome conta 1º nível,Cod conta 1º nível,Nome conta 2º nível,Cod conta 2º nível,Nome conta 3º nível,Área,Colaborador,Data da Admissão,Data da Demissão,Matrícula,Salário,Curso,Pesquisa de Clima Organizacional,Horas de Capacitação,Ano,Mês
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Jason Statham,2020-03-03,,3250,1365.0,FEEDBACK,Sim,40,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Johnny Depp,2020-04-03,,3255,1877.53,Excel Avançado,Sim,45,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Julia Roberts,2019-07-03,,3256,1667.26,Atendimento ao Cliente,Não,20,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Keanu Reeves,2019-12-03,,3257,1487.84,-,Sim,-,2022,-
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Kevin Costner,2018-10-03,,3258,2046.49,Atendimento ao Cliente,Sim,20,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Leonardo DiCaprio,2018-10-03,,3259,2046.49,Excel Avançado,Sim,45,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Mel Gibson,2019-11-02,,3260,1666.52,-,Sim,-,2022,-
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Meryl Streep,2017-03-01,,3261,1258.95,Atendimento ao Cliente,Sim,20,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Morgan Freeman,2018-10-02,,3262,1201.73,Atendimento ao Cliente,Sim,20,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Nicole Kidman,2020-12-02,,3263,1201.73,-,Sim,-,2022,-
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Richard Gere,2020-12-04,,3264,1201.73,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Robert De Niro,2019-11-04,,3265,1201.73,Eletricidade Básica,Sim,30,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Robin Williams,2018-11-02,,3266,1201.73,Eletricidade Básica,Sim,30,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Samuel L. Jackson,2009-10-02,,3267,1201.73,Eletricidade Básica,Não,30,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Sandra Bullock,2014-04-03,,3268,1767.23,-,Sim,-,2022,-
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Sylvester Stallone,2012-11-03,,3269,1919.59,Atendimento ao Cliente,Sim,20,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Tom Cruise,2016-10-03,,3270,1919.59,Eletricidade Básica,Não,30,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Adam Sandler,2016-08-03,44684,3234,1528.93,Administração de Conflitos,Não,10,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Al Pacino,2011-01-03,,3235,2100.0,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Angelina Jolie,2017-12-03,,3236,1155.0,CIPA,Não,20,2022,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Anthony Hopkins,2012-09-03,2022-09-03 00:00:00,3237,1645.71,CIPA,Sim,20,2022,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Antonio Banderas,2016-11-03,,3238,2100.0,Administração de Conflitos,Não,10,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Manutenção, Arnold Schwarzenegger,2006-08-03,,3239,1102.5,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Manutenção, Ben Stiller,2006-08-03,,3240,1102.5,FEEDBACK,Sim,40,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência, Brad Pitt,2007-08-03,,3241,10370.61,Eletricidade Básica,Sim,30,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência, Bruce Willis,2012-07-03,,3242,9103.5,FEEDBACK,Sim,40,2022,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Estgiário, Cameron Diaz,2015-03-03,,3243,735.0,FEEDBACK,Sim,40,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Charles Bronson,2017-08-03,,3244,3628.93,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Clint Eastwood,2020-11-03,,3245,4200.0,Administração de Conflitos,Não,10,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Cuba Gooding Jr.,2017-08-03,,3246,3202.5,FEEDBACK,Sim,40,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Denzel Washington,2016-06-03,,3247,2100.0,-,Sim,-,2022,-
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Harrison Ford,2016-11-03,,3248,2100.0,FEEDBACK,Não,40,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista, Jack Nicholson,2016-12-03,,3249,1102.5,-,Sim,-,2022,-
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista, Jet Li,2018-09-03,,3251,1528.93,FEEDBACK,Sim,40,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista, Jim Carrey,2019-10-03,,3252,2100.0,Libras,Sim,60,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista, John Travolta,2020-10-03,,3253,1296.29,Libras,Sim,60,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista, John Wayne,2011-10-03,,3254,1102.5,-,Sim,-,2022,-
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Tom Hanks,2021-04-03,,3271,2174.54,Atendimento ao Cliente,Sim,20,2022,MARÇO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Will Smith,2013-07-03,,3272,2174.54,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Will Smith,2013-07-03,,3272,2174.54,Técnicas de Vendas,Não,30,2022,ABRIL
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Will Smith,2013-07-03,,3272,2174.54,Técnicas de Vendas II,Não,30,2022,MAIO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência, Brad Pitt,2007-08-03,,3241,10370.61,Eletricidade Básica,Sim,30,2022,MAIO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência, Bruce Willis,2012-07-03,,3242,9103.5,FEEDBACK II,Não,40,2022,MAIO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Meryl Streep,2017-03-01,,3261,1258.95,Atendimento ao Cliente,Não,20,2022,AGOSTO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor, Tom Hanks,2021-04-03,,3271,2174.54,Atendimento ao Cliente,Sim,20,2022,SETEMBRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Adam Sandler,2016-08-03,,3234,1528.93,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Al Pacino,2011-01-03,,3235,2100.0,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Angelina Jolie,2017-12-03,,3236,1155.0,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Anthony Hopkins,2012-09-03,,3237,1645.71,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Antonio Banderas,2016-11-03,,3238,2100.0,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência, Brad Pitt,2007-08-03,,3241,10370.61,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Charles Bronson,2017-08-03,,3244,3628.93,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Clint Eastwood,2020-11-03,,3245,4200.0,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Cuba Gooding Jr.,2017-08-03,,3246,3202.5,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Denzel Washington,2016-06-03,,3247,2100.0,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração, Harrison Ford,2016-11-03,2022-10-03 00:00:00,3248,2100.0,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador, Will Smith,2013-07-03,,3272,2174.54,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência, Brad Pitt,2007-08-03,,3241,10370.61,Iniciação ao POWER BI,Não,60,2023,FEVEREIRO
+Mirante,10113,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência, Bruce Willis,2012-07-03,,3242,9103.5,Iniciação ao POWER BI,Não,60,2023,FEVEREIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Ademar Pimenta,2011-04-01,,4431,2174.54,Libras,Não,60,2022,MARÇO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Aimoré Moreira,2010-05-01,,4432,2174.54,Libras,Não,60,2022,MARÇO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Manutenção,Carlos Alberto Parreira,2010-11-01,,4433,1716.54,CIPA,Sim,20,2022,JANEIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Cláudio Coutinho,2012-07-03,,4434,1716.54,CIPA,Não,20,2022,JANEIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Dunga,2014-07-03,,4435,1352.09,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Estgiário,Flávio Costa,2011-04-01,,4436,1716.54,-,Não,-,2022,-
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista,Luis Felipe Scolari,2018-03-01,,4437,2129.7,FEEDBACK,Sim,40,2022,FEVEREIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Vicente Feola,2016-07-03,,4444,1540.07,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Zezé Moreira,2021-12-03,,4445,2115.31,FEEDBACK,Sim,40,2022,JANEIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Luís Vinhais,2018-09-03,,4438,2129.7,FEEDBACK,Não,40,2022,JANEIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Mário Jorge Lobo Zagallo,2018-09-03,,4439,2129.7,Excel Avançado,Sim,45,2022,FEVEREIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Píndaro do Carvalho,2017-09-03,,4440,1305.51,-,Sim,-,2022,-
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Sebastião Lazaroni,2021-12-03,,4441,1305.74,FEEDBACK,Sim,40,2022,FEVEREIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Telê Santana,2021-12-03,,4442,1305.51,Libras,Sim,60,2022,MARÇO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Tite,2007-06-02,,4443,1892.11,Libras,Sim,60,2022,MARÇO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Cláudio Coutinho,2012-07-03,,4434,1716.54,Técnicas de Vendas,Sim,30,2022,ABRIL
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Dunga,2014-07-03,,4435,1352.09,Técnicas de Vendas,Sim,30,2022,ABRIL
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Cláudio Coutinho,2012-07-03,,4434,1716.54,Técnicas de Vendas II,Não,30,2022,MAIO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Dunga,2014-07-03,,4435,1352.09,Técnicas de Vendas II,Não,30,2022,MAIO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Cláudio Coutinho,2012-07-03,,4434,1716.54,FEEDBACK II,Não,40,2022,MAIO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Dunga,2014-07-03,,4435,1352.09,FEEDBACK II,Sim,40,2022,MAIO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Vicente Feola,2016-07-03,,4444,1540.07,Atendimento ao Cliente,Sim,20,2022,JUNHO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Zezé Moreira,2021-12-03,,4445,2115.31,Atendimento ao Cliente,Não,20,2022,AGOSTO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Ademar Pimenta,2011-04-01,,4431,2174.54,Iniciação ao POWER BI,Sim,60,2022,NOVEMBRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Aimoré Moreira,2010-05-01,,4432,2174.54,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Dunga,2014-07-03,,4435,1352.09,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Zezé Moreira,2021-12-03,,4445,2115.31,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Dunga,2014-07-03,,4435,1352.09,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Sol Leste,10110,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Cláudio Coutinho,2012-07-03,,4434,1716.54,Iniciação ao POWER BI,Não,60,2023,FEVEREIRO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Daniel Alves (Barcelona),2007-05-03,,2234,1716.54,Libras,Sim,60,2022,MARÇO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Maicon (Roma),2007-05-03,,2235,2129.7,-,Não,-,2022,-
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Marcelo (Real Madrid),2008-03-02,,2236,2129.7,CIPA,Sim,20,2022,JANEIRO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Maxwell (PSG),2016-03-02,,2237,2129.7,-,Não,-,2022,-
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Bernard (Shakhtar),2020-06-03,,2238,1999.13,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Manutenção,Fred (Fluminense),2019-08-02,,2239,1716.54,FEEDBACK,Sim,40,2022,FEVEREIRO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Manutenção,Hulk (Zenit),2020-03-03,,2240,1716.54,FEEDBACK,Sim,40,2022,JANEIRO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Jô (Atlético-MG),2016-03-02,,2241,1716.54,Inglês Básico,Sim,40,2022,MARÇO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Neymar (Barcelona),2017-05-03,,2242,2129.7,FEEDBACK,Sim,40,2022,JANEIRO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Estgiário,Fernandinho (Manchester City),2018-11-03,,2243,1716.54,-,Sim,-,2022,-
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista,Hernanes (Inter de Milão),2016-03-03,,2244,1716.54,FEEDBACK,Não,40,2022,FEVEREIRO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Consultor,Dante (Bayern de Munique),2013-03-01,,2253,1716.54,Excel Avançado,Sim,45,2022,FEVEREIRO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,David Luiz (Chelsea),2013-11-01,,2254,1716.54,Administração de Conflitos,Não,10,2022,FEVEREIRO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Henrique (Napoli),2014-11-01,,2255,1716.54,Inglês Básico,Sim,40,2022,MARÇO
+Vitória,10100,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Thiago Silva (PSG,2014-09-01,,2256,1305.51,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Deodoro da Fonseca,2021-05-03,2022-09-01 00:00:00,1234,1716.54,FEEDBACK,Não,40,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Floriano Peixoto,2021-05-03,,1235,1716.54,FEEDBACK,Sim,40,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Campos Sales,2018-05-03,,1236,1716.54,Administração de Conflitos,Sim,10,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Rodrigues Alves,2013-11-03,,1237,1305.51,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Afonso Pena,2016-02-03,,1238,2174.54,CIPA,Sim,20,2022,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Manutenção,Nilo Peçanha,2014-02-03,,1239,2129.7,FEEDBACK,Sim,40,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Manutenção,Hermes da Fonseca,2004-02-03,,1240,1716.54,Excel Avançado,Sim,45,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Venceslau Brás,2015-04-16,,1241,1892.11,Excel Avançado,Não,45,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Rodrigues Alves,2013-11-03,,1237,1305.51,FEEDBACK,Sim,40,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Estgiário,Delfim Moreira,2021-11-03,,1243,1716.54,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Epitácio Pessoa,2020-10-03,,1244,1473.39,FEEDBACK,Não,40,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Artur Bernardes,2018-06-03,,1245,2129.7,FEEDBACK,Não,40,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Washington Luís,2013-02-03,,1246,1134.43,Inglês Básico,Sim,40,2022,MARÇO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Júlio Prestes,2015-07-03,,1247,2129.7,Inglês Básico,Não,40,2022,MARÇO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Augusto Tasso Fragoso,2010-10-02,,1248,2129.7,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista,Getúlio Vargas,2015-10-02,,1249,1716.54,FEEDBACK,Não,40,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista,Eurico Gaspar Dutra,2012-04-03,,1251,1473.39,Libras,Sim,60,2022,MARÇO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Motorista,Getúlio Vargas,2015-10-02,,1249,1716.54,Libras,Sim,60,2022,MARÇO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Café Filho,2012-03-03,,1253,1716.54,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Carlos Luz,2006-07-03,,1254,1716.54,Atendimento ao Cliente,Sim,20,2022,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Artur da Costa e Silva,2020-07-03,,1261,2129.7,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Aurélio de Lira Tavares,2015-09-11,,1263,1999.13,Atendimento ao Cliente,Sim,20,2022,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Emílio Garrastazu Médici,2011-06-03,,1264,1473.39,Atendimento ao Cliente,Não,20,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Ernesto Geisel,2011-07-02,,1265,1473.39,Atendimento ao Cliente,Sim,20,2022,MARÇO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Fernando Collor,2011-07-02,,1269,1716.54,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Humberto Castelo Branco,2012-07-02,,1260,1716.54,Excel Avançado,Sim,45,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Itamar Franco,2013-03-02,,1270,1716.54,Atendimento ao Cliente,Sim,20,2022,MARÇO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Jânio Quadros,2019-03-02,,1257,1716.54,Atendimento ao Cliente,Sim,20,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,João Figueiredo,2019-11-02,,1266,1716.54,Atendimento ao Cliente,Não,20,2022,MARÇO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,João Goulart,2019-08-02,,1259,1716.54,Atendimento ao Cliente,Sim,20,2022,MARÇO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,José Linhares,2019-10-02,,1250,1716.54,FEEDBACK,Sim,40,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,José Sarney,2019-12-02,,1268,1716.54,Atendimento ao Cliente,Não,20,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Consultor,Fernando Henrique Cardoso,2016-08-03,,1271,1716.54,Atendimento ao Cliente,Não,20,2022,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Luiz Inácio Lula da Silva,2016-08-03,,1272,2129.7,Atendimento ao Cliente,Sim,20,2022,FEVEREIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Dilma Rousseff,2014-01-02,,1273,1352.09,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Michel Temer,2008-09-03,,1274,2129.7,Atendimento ao Cliente,Não,20,2022,MARÇO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Juscelino Kubitschek,2018-09-03,,1256,2129.7,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Nereu Ramos,2004-07-03,,1255,2129.7,Atendimento ao Cliente,Não,20,2022,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Pedro Aleixo,2018-11-03,,1262,2129.7,-,Não,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Ranieri Mazzilli,2018-11-03,,1258,1305.51,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Tancredo Neves,2016-03-03,2016-05-15 00:00:00,1267,1305.74,-,Sim,-,2022,-
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Júlio Prestes,2015-07-03,,1247,2129.7,Técnicas de Vendas,Sim,30,2022,ABRIL
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Augusto Tasso Fragoso,2010-10-02,,1248,2129.7,Técnicas de Vendas,Sim,30,2022,ABRIL
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Júlio Prestes,2015-07-03,,1247,2129.7,Técnicas de Vendas II,Sim,30,2022,MAIO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Augusto Tasso Fragoso,2010-10-02,,1248,2129.7,Técnicas de Vendas II,Sim,30,2022,MAIO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Café Filho,2012-03-03,2022-02-10 00:00:00,1253,1716.54,Atendimento ao Cliente,Sim,20,2022,JUNHO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Carlos Luz,2006-07-03,,1254,1716.54,Atendimento ao Cliente,Sim,20,2022,AGOSTO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Dilma Rousseff,2014-01-02,,1273,1352.09,Atendimento ao Cliente,Não,20,2022,SETEMBRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Deodoro da Fonseca,2021-05-03,2022-09-01 00:00:00,1234,1716.54,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Floriano Peixoto,2021-05-03,,1235,1716.54,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Campos Sales,2018-05-03,,1236,1716.54,Iniciação ao POWER BI,Sim,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Afonso Pena,2016-02-03,2022-10-01 00:00:00,1238,2174.54,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Gerência,Venceslau Brás,2015-04-16,,1241,1892.11,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Rodrigues Alves,2013-11-03,,1237,1305.51,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Epitácio Pessoa,2020-10-03,,1244,1473.39,Iniciação ao POWER BI,Sim,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Artur Bernardes,2018-06-03,,1245,2129.7,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Washington Luís,2013-02-03,,1246,1134.43,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Júlio Prestes,2015-07-03,2022-10-01 00:00:00,1247,2129.7,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Luiz Inácio Lula da Silva,2016-08-03,,1272,2129.7,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Vendedor,Dilma Rousseff,2014-01-02,,1273,1352.09,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Coodenador,Michel Temer,2008-09-03,,1274,2129.7,Iniciação ao POWER BI,Não,60,2023,JANEIRO
+Vitória,10112,Despesa,1,Despesas Correntes,11,Pessoal e Encargos,Administração,Augusto Tasso Fragoso,2010-10-02,,1248,2129.7,Iniciação ao POWER BI,Não,60,2023,JANEIRO
